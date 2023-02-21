@@ -1,0 +1,22 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: cornflowerblue;
+    width: 350px;
+    height: 35px;
+}
+
+#resultado{
+    background-color:lemonchiffon;
+    width: 350px;
+    height: 150px;
+    
+}
+
+input{
+    width: 345px;
+    border-style:hidden;
+}
+
+button{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
