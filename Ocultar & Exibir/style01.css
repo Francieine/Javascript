@@ -1,0 +1,19 @@
+h1, p{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#div02{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+}
+
+p{
+    text-align: center;
+    padding-top: 85px;
+}
+
+button{
+   margin-left: 25px;
+    
+}
